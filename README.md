@@ -21,7 +21,7 @@
 - MySQL | MongoDB | PostgreSQL | Redis | Prisma
 
 #### 💡 Others:
-- Git | Docker | Nginx | REST API | Authentication | JWT
+- Git | Docker | Nginx | 
 
 
 ###
