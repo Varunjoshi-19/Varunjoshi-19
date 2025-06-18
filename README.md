@@ -12,16 +12,16 @@
 
 ### 🛠️ Tech Stack:
 #### 🌐 Frontend:
-- HTML | CSS | JavaScript | React.js (TypeScript)
+-  React.js | Next.js (TypeScript)
 
 #### ⚙️ Backend:
-- Node.js | Express.js | JavaFX
+- Node.js | Express.js | Spring boot
 
 #### 🗄️ Databases:
-- MySQL | MongoDB | PostgreSQL | Redis | Prisma
+- MySQL | MongoDB | PostgreSQL | Redis 
 
 #### 💡 Others:
-- Git | Docker | Nginx | 
+- Devops | System Design | DSA
 
 
 ###
@@ -43,11 +43,19 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+
+  <a href="https://www.youtube.com/@tech_cloner">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  
+  <a href="https://www.instagram.com/tech_cloner/"> 
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+
+  <a href="https://www.linkedin.com/in/varun-joshi-60a640324/"> 
+   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+ 
 </div>
 
 ###
