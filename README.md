@@ -15,7 +15,7 @@
 -  React.js | Next.js (TypeScript)
 
 #### ⚙️ Backend:
-- Node.js | Express.js | Spring boot
+- Node.js | Express.js | Spring boot (TypeScript | Java)
 
 #### 🗄️ Databases:
 - MySQL | MongoDB | PostgreSQL | Redis 
