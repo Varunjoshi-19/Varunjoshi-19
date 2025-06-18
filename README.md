@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Varun  
 
-## 🚀 Full Stack Developer | Problem Solver 
+## 🚀 Full Stack Developer
 
 ### 👨‍💻 About Me:
 - 💻 Passionate Full Stack Developer with expertise in front-end and back-end development.
