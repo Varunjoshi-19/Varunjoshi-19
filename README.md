@@ -40,6 +40,8 @@
   </a>
 </div>
   <br/>
+
+  <h2>Project Links </h2>
 <div>
    <a href="https://talksgram-client.vercel.app/"> 
    Talksgram
