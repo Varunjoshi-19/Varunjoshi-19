@@ -56,8 +56,9 @@
 
 ###
 
-🎮 Game Projects 
-div>
+<h2>🎮 Game Projects </h2>
+
+<div>
    <a href="https://sudoku-solver-game-sigma.vercel.app">Sudoku Game</a>
 </div>
 
