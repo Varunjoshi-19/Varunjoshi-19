@@ -62,6 +62,10 @@
    <a href="https://sudoku-solver-game-sigma.vercel.app">Sudoku Game</a>
 </div>
 
+<div>
+   <a href="https://dino-game-liard.vercel.app/">Dino Game</a>
+</div>
+
 <br clear="both">
 
 
