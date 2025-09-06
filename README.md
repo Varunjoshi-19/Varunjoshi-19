@@ -60,7 +60,8 @@
    <a href="https://quick-cart-fljo.vercel.app"> 
    Quick Cart
   </a>
-</div>s
+</div>
+
 
 ###
 
