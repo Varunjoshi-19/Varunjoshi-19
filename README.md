@@ -21,7 +21,10 @@
 - MySQL | MongoDB | PostgreSQL | Redis 
 
 #### 💡 Others:
-- Devops | System Design | DSA
+- Devops | System Design | Cloudinary | DSA
+
+### Cloudinary: 
+- Appwrite | Firebase | AWS | neon | atlas | drizzle
 
 
 
