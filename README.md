@@ -14,7 +14,7 @@
 <h3>🛠️ Tech Stack:</h3>
 
 <h4>🌐 Frontend:</h4>
-<p>React.js | Next.js (TypeScript) | Angular</p>
+<p>React.js | Next.js (TypeScript) | React Native | Angular</p>
 
 <h4>⚙️ Backend:</h4>
 <p>Node.js | Express.js | Spring Boot (TypeScript | Java) | .NET (C#)</p>
@@ -27,12 +27,6 @@
 <p>Appwrite | Firebase | AWS | Neon | Atlas | Drizzle</p>
 
 <div align="left">
-  <a href="https://www.youtube.com/@tech_cloner">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/tech_cloner/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
   <a href="https://www.linkedin.com/in/varun-joshi-60a640324/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
@@ -57,6 +51,9 @@
 <br/>
 <div>
   <a href="https://quick-cart-fljo.vercel.app">Quick Cart</a>
+</div>
+<div>
+  <a href="https://sync-code-nu.vercel.app">Code Sync</a>
 </div>
 
 <h2>🎮 Game Projects</h2>
