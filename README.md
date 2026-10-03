@@ -36,10 +36,6 @@
 
 <h2>Project Links</h2>
 
-<!-- ⚠️ SERVER NOTICE -->
-<blockquote>
-  <strong>⏳ Heads up!</strong> The first request may take <strong>30–60 seconds</strong> — the free server is just waking up. Please don't leave, it'll load shortly!
-</blockquote>
 
 <div>
   <a href="https://talksgram-client.vercel.app/">Talksgram</a>
